@@ -12,7 +12,7 @@ Este repositório contém a entrega das atividades de lógica de programação d
 
 ## Descrição das Atividades
 
-Cada script foi desenvolvido para resolver um problema específico, conforme mostrado abaixo:
+Cada script foi desenvolvido para resolver um problema específico, conforme mostrado abaixo: 
 
 1.  **`ex01_pares_impares.py`**: Algoritmo que utiliza o laço `for` para iterar de 0 a 100, identificando e exibindo números pares e ímpares através do operador de módulo (`%`).
 2.  **`ex02_maior_menor.py`**: Script que realiza a leitura de três números, armazena-os em uma **lista** e utiliza funções nativas para identificar o maior e o menor valor.
