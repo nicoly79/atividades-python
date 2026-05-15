@@ -35,3 +35,5 @@ Cada script foi desenvolvido para resolver um problema específico, conforme mos
 * **Sequência Lógica:** Algoritmos estruturados com início, meio e fim bem definidos, evitando redundâncias.
 * **Tipagem Adequada:** Uso correto de `int`, `float`, `str` e estruturas de dados como `list` e `dict`.
 * **Indentação:** Código organizado para facilitar a leitura e manutenção.
+
+[Link para o Notebook das Atividades](https://colab.research.google.com/drive/157JuDQ6DwSk12x6pC0-FXOFra9Pzk25r?usp=sharing)
